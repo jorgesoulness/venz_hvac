@@ -1,0 +1,114 @@
+
+---Archivos descargados---
+Los archivos de importación para Homepage 12 ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 36000
+Información de archivos:
+URL del sitio = http://hvaccomfortsupply.us
+Archivo de datos = C:\laragon\www\hvac/wp-content/uploads/2026/05/demo-content-import-file_2026-05-21__19-05-13.xml
+Archivo de widget = ¡no definido!
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ coolair_option -> C:\laragon\www\hvac/wp-content/uploads/2026/05/demo-redux-import-file_0-2026-05-21__19-05-13.json 
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+------
+¡Nueva llamada AJAX!
+
+
+---Ajustes de importación de Redux---
+¡La importación de los ajustes de Redux coolair_option ha finalizado correctamente!
+
+---ocdi/after_import---
+

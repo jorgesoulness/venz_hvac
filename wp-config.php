@@ -21,14 +21,18 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 // define( 'DB_NAME', 'hvacdb' );
+<<<<<<< HEAD
 // define( 'DB_NAME', 'hvacdbprod' );
 define( 'DB_NAME', 'hvacbkp' );
+=======
+define( 'DB_NAME', 'hschdbvi_hvacdb' );
+>>>>>>> 946386ef6a45593d1ea4a01e9d814c7fb5ad7688
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'hschdbvi_admindbs' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 't0%Rh{*IhPj5iUDU' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

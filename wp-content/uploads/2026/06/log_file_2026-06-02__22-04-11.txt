@@ -1,0 +1,18 @@
+
+---Downloaded files---
+The import files for: Homepage 12 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://hvaccomfortsupply.us/new
+Data file = /home/hschdbvi/hvaccomfortsupply.us/new/wp-content/uploads/2026/06/demo-content-import-file_2026-06-02__22-04-11.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+coolair_option -> /home/hschdbvi/hvaccomfortsupply.us/new/wp-content/uploads/2026/06/demo-redux-import-file_0-2026-06-02__22-04-11.json 
+
+
+---Importing Redux settings---
+Redux settings import for: coolair_option finished successfully!
+
+---ocdi/after_import---
+
